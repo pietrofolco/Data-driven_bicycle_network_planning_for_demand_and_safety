@@ -34,3 +34,20 @@ Then:
 
 The .py files "functions.py", "path.py", "setup.py" and "parameters.py" are based on the code of M. Szell available here: https://github.com/mszell/bikenwgrowth.
 
+
+## Setting up code environment
+`conda create --override-channels -c conda-forge -n OSMNX python=3 osmnx=0.16.2 python-igraph watermark haversine rasterio tqdm geojson`
+
+`conda activate OSMNX`
+
+`conda install -c conda-forge ipywidgets`
+
+`pip install opencv-python`
+
+`conda install -c anaconda gdal`
+
+`pip install --user ipykernel`
+
+`python -m ipykernel install --user --name=OSMNX`
+
+Run Jupyter Notebook with kernel OSMNX (Kernel > Change Kernel > OSMNX)
