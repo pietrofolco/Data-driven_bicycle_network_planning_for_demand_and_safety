@@ -1,7 +1,5 @@
 # Data-driven bicycle network planning for demand and safety
 
-This is the repository for my Lagrange Project on urban data science. 
-
 This is the source code for the scientific paper Data-driven bicycle network planning for demand and safety by P. Folco, L. Gauvin, M. Tizzoni and M. Szell.
 
 The notebooks are divided in 3 sections.
@@ -33,6 +31,8 @@ Then:
 * Run the notebook "3e_plots.ipynb" to visualize the results, creating figures equivalent to the figures we showed in our paper.
 
 The .py files "functions.py", "path.py", "setup.py" and "parameters.py" are based on the code of M. Szell available here: https://github.com/mszell/bikenwgrowth.
+
+The file "function_index.txt" contains the name of the functions in "functions.py" sorted in alphabetical order. For each function the number of the line is reported to find it in the document.
 
 
 ## Setting up code environment
