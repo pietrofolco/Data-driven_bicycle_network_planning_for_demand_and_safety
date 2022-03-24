@@ -2,7 +2,7 @@
 
 This is the source code for the scientific paper Data-driven bicycle network planning for demand and safety by P. Folco, L. Gauvin, M. Tizzoni and M. Szell.
 
-The notebooks are divided in 3 sections.
+The notebooks are divided in 3 sections. 
 
 ## Section 1: collect e-scooter position data from the Bird API.
 * Run the notebook "1a_locations-for-requests.ipynb" to define the location of your queries.
