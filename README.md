@@ -25,7 +25,7 @@ Then:
 
 ## Section 3: Run the model and analyze the results.
 * Run the notebook "3a_prepare-networks.ipynb" to download from OpenStreetMap the car and bicycle networks. In the folder "data/turin" we provided the data of Turin, downloaded on 2021-07-12. This notebook is developed by M. Szell, you can find it also here: https://github.com/mszell/bikenwgrowth.
-* Run the notebook "3b_pois.ipynb" to set the POIs. This notebook is based on the notebook of M. Szell "02_prepare_pois.ipynb" available here: https://github.com/mszell/bikenwgrowth.
+* Run the notebook "3b_seed-points.ipynb" to set the seed points. This notebook is based on the notebook of M. Szell "02_prepare_pois.ipynb" available here: https://github.com/mszell/bikenwgrowth.
 * Run the notebook "3c_crash&trips-per-link.ipynb" to compute the number of crashes and trips passing through each link. 
 * Run the notebook "3d_network-growth.ipynb" to compute the network growth and analyze the results. This notebook is based on the notebooks of M. Szell "03_poi_based_generation.ipynb" and "04_analyze_results.ipynb" available here: https://github.com/mszell/bikenwgrowth.
 * Run the notebook "3e_plots.ipynb" to visualize the results, creating figures equivalent to the figures we showed in our paper.
