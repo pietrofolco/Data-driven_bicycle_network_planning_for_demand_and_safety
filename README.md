@@ -1,6 +1,6 @@
 # Data-driven bicycle network planning for demand and safety
 
-This is the source code for the scientific paper Data-driven bicycle network planning for demand and safety by P. Folco, L. Gauvin, M. Tizzoni and M. Szell.
+This is the source code for the scientific paper [Data-driven bicycle network planning for demand and safety](https://arxiv.org/abs/2203.14619) by P. Folco, L. Gauvin, M. Tizzoni and M. Szell.
 
 The notebooks are divided in 3 sections. 
 
