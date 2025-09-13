@@ -1,0 +1,39 @@
+cff-version: 1.2.0
+message: "If you use this source code, please cite it as below."
+authors:
+  - family-names: "Folco"
+    given-names: "Pietro"
+    orcid: "https://orcid.org/0000-0002-9346-8045"
+  - family-names: "Gauvin"
+    given-names: "Laetitia"
+  - family-names: "Tizzoni"
+    given-names: "Michele"
+    orcid: "https://orcid.org/0000-0001-7246-2341"
+  - family-names: "Szell"
+    given-names: "Michael"
+    orcid: "https://orcid.org/0000-0003-3022-2483"
+title: "Data-driven micromobility network planning for demand and safety"
+version: 1.0.0
+doi: 10.1177/23998083221135612
+date-released: 2023-09-13
+preferred-citation:
+  type: article
+  authors:
+    - family-names: "Folco"
+      given-names: "Pietro"
+      orcid: "https://orcid.org/0000-0002-9346-8045"
+    - family-names: "Gauvin"
+      given-names: "Laetitia"
+    - family-names: "Tizzoni"
+      given-names: "Michele"
+      orcid: "https://orcid.org/0000-0001-7246-2341"
+    - family-names: "Szell"
+      given-names: "Michael"
+      orcid: "https://orcid.org/0000-0003-3022-2483"
+  title: "Data-driven micromobility network planning for demand and safety"
+  doi: "10.1177/23998083221135612"
+  journal: "Environment and Planning B: Urban Analytics and City Science"
+  volume: 50
+  number: 8
+  pages: 2087--2102
+  year: 2023

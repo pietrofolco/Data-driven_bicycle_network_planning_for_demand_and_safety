@@ -1,6 +1,6 @@
 # Data-driven micromobility network planning for demand and safety
 
-This is the source code for the scientific paper [Data-driven micromobility network planning for demand and safety](https://arxiv.org/abs/2203.14619) by P. Folco, L. Gauvin, M. Tizzoni and M. Szell.
+This is the source code for the scientific paper [Data-driven micromobility network planning for demand and safety](https://journals.sagepub.com/doi/10.1177/23998083221135611) by P. Folco, L. Gauvin, M. Tizzoni and M. Szell.
 
 The notebooks are divided in 3 sections. 
 
@@ -51,3 +51,11 @@ The file "function_index.txt" contains the name of the functions in "functions.p
 `python -m ipykernel install --user --name=OSMNX`
 
 Run Jupyter Notebook with kernel OSMNX (Kernel > Change Kernel > OSMNX)
+
+
+## Credits
+
+Please cite as: 
+>P. Folco, L. Gauvin, M. Tizzoni, M. Szell. Data-driven micromobility network planning for demand and safety. Environment and Planning B 50(8), 2087-2102 (2023) 
+
+Development of the project was supported by the Lagrange Program of the ISI Foundation funded by CRT Foundation, and by the Danish Ministry of Transport (grant number: CP21-033).
